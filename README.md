@@ -22,13 +22,10 @@ ct-fbp-reconstruction/
 ├── assets/
 │   ├── doc/
 │   └── img/         # 참고용 CT 이미지 자료
-|
-|
 ├── src/             # 💻 주요 소스코드
 │   ├── bp.cpp       # Back projection (Inverse radon transform)
 │   ├── fbp.cpp      # Filtered back projection (+ Ramp filter function)
 │   └── radon.cpp    # Radon transform (Making a sinogram)
-|
 └── README.md
 ```
 
@@ -38,11 +35,11 @@ ct-fbp-reconstruction/
     <h2>🎯 Reconstruction Result</h2>
     <h3>📍 Radon Transform & Back Projection 결과</h3>
     <div align="center">
-        <img src="./assets/doc/sample-Apply.png" width="550"/>
+        <img src="./assets/doc/sample-Apply.png"/>
     </div>
     <h3>📍 실제 CT Tomography 영상에 적용</h3>
     <div align="center">
-        <img src="./assets/doc/CT-Apply.png" width="550"/>
+        <img src="./assets/doc/CT-Apply.png"/>
     </div>
     <p><i>※ 이미지 출처 : 지인 제공</i></p>
 </div>
