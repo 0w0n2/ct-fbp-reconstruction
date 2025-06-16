@@ -41,6 +41,5 @@ ct-fbp-reconstruction/
     <div align="center">
         <img src="./assets/doc/CT-Apply.png"/>
     </div>
-    <p><i>※ 이미지 출처 : 지인 제공</i></p>
 </div>
 <br>
